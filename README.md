@@ -1,5 +1,5 @@
 # nt
 
-jude's first change
+jude's first change.
 
-This is my competing edit.
+I want to make this change.
